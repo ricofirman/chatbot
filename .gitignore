@@ -1,0 +1,8 @@
+# API Keys (JANGAN PERNAH DIUPLOAD!)
+.env
+
+# Python
+__pycache__/
+
+test_gemini.py
+test_groq.py
